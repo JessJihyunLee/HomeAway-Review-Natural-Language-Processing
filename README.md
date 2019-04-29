@@ -7,4 +7,4 @@
 1. Result of text analytics and insights are posted on :<br/>
 [HomeAway Presentation](https://drive.google.com/file/d/19FZ5ndScv2PgrBaNOQ5dFD1CbQkvB_AE/view?usp=sharing)
 2. Example of Analysis :</br>
-![](HomeAway Presentation.png)
+![](example2.png)
