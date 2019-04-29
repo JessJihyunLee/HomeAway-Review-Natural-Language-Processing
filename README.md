@@ -4,7 +4,7 @@
 2. To prevent privacy invasion issue, only partial works and outputs are uploaded
 
 # Result of Text Analytics
-1. Result of text analytics and insights are posted on :<br/>
+1. __Result of text analytics and insights are posted on :__<br/>
 [HomeAway Presentation](https://drive.google.com/file/d/19FZ5ndScv2PgrBaNOQ5dFD1CbQkvB_AE/view?usp=sharing)
 2. Example of Analysis :</br>
 ![](example2.png)
