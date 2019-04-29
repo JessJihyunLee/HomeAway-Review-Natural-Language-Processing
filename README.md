@@ -1,3 +1,6 @@
-# Text-Analytics-
-HW and Group Project 
-MSBA Fall 2018
+# HomeAway-Review-Text-Analytics
+1. This was Text Analytics Class Final Project.
+**Team members : Atindar Bandi, Amy Dang, Jess Lee, Teeru Gupta, Hope Knopf**</br>
+2. To prevent privacy invasion issue, only partial works and outputs are uploaded
+
+# Web scraper setup
